@@ -14,3 +14,5 @@
   resolution: "@achrinza/node-ipc@npm:9.2.2"
   dependencies:
     "@node-ipc/js-queue": 2.0.3
+    event-pubsub: 4.3.0
+    js-message: 1.0.7
