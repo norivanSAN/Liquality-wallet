@@ -16,3 +16,5 @@
     "@node-ipc/js-queue": 2.0.3
     event-pubsub: 4.3.0
     js-message: 1.0.7
+  checksum: cb80b9b753bd28ac52d5ca598eab10f91f311424adf9b4f0ac7e4caee4b43edc28b3f3129118dd6f94f24cc9b34464fc58301463ef42dc1a465c5c43412446f9
+  languageName: node
