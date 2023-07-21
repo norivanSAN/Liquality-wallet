@@ -26,3 +26,5 @@
   checksum: 50d0098461af146e112bdc700959fac473cce31ad25f5077b11c87bc66529c4aeb5a1e6f30f4a9646efe003c242f52f181f042e21f9cc137703ffde54a9d1fb5
   languageName: node
   linkType: hard
+
+"@amplitude/analytics-connector@npm:1.4.2":
