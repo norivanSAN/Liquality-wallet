@@ -28,3 +28,5 @@
   linkType: hard
 
 "@amplitude/analytics-connector@npm:1.4.2":
+  version: 1.4.2
+  resolution: "@amplitude/analytics-connector@npm:1.4.2"
