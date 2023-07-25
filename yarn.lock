@@ -35,3 +35,6 @@
   checksum: be0753d05d1ca199d859da003e9891f2ef6b449cbf1e631ecb63a483e7f02403aca9f67f72c5fd3279a022fbc6e3f696a974f7f8deaf87089a5acccf077c500d
   languageName: node
   linkType: hard
+  linkType: hard
+
+"@amplitude/types@npm:^1.10.2":
