@@ -36,7 +36,7 @@
   languageName: node
   linkType: hard
   linkType: hard
-
+  linkType: hard
 "@amplitude/types@npm:^1.10.2":
   version: 1.10.2
   resolution: "@amplitude/types@npm:1.10.2"
