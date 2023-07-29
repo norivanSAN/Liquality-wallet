@@ -45,3 +45,5 @@
   linkType: hard
 
 "@amplitude/ua-parser-js@npm:0.7.26":
+  version: 0.7.26
+  resolution: "@amplitude/ua-parser-js@npm:0.7.26"
