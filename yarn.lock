@@ -49,3 +49,6 @@
   resolution: "@amplitude/ua-parser-js@npm:0.7.26"
   checksum: 38f6f297980b12f6991ea2550273ce85fc96d8d0180ae2e025a3a9439cb45d98623b8bed25915c3acfc047fa2a920c1d353e9aefad77b8cdb210d77622db7242
   languageName: node
+  linkType: hard
+
+"@amplitude/utils@npm:^1.0.5":
