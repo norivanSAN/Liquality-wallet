@@ -54,3 +54,5 @@
 "@amplitude/utils@npm:^1.0.5":
   version: 1.10.2
   resolution: "@amplitude/utils@npm:1.10.2"
+  dependencies:
+    "@amplitude/types": ^1.10.2
