@@ -59,3 +59,6 @@
     tslib: ^2.0.0
   checksum: 9b5d3652725e30add1e42a1f221a3954c844d9aeb9d73b197c5ea2a0b91a86ccdedd4878e829cdae0eca287e68d37016347b97860069fa233d8d9ec78821d1c9
   languageName: node
+  linkType: hard
+
+"@ampproject/remapping@npm:^2.1.0":
