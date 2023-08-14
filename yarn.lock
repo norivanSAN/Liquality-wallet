@@ -82,3 +82,5 @@
   linkType: hard
 
 "@babel/cli@npm:^7.16.7":
+  version: 7.20.7
+  resolution: "@babel/cli@npm:7.20.7"
