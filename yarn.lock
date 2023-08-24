@@ -96,3 +96,5 @@
     slash: ^2.0.0
   peerDependencies:
     "@babel/core": ^7.0.0-0
+  dependenciesMeta:
+    "@nicolo-ribaudo/chokidar-2":
