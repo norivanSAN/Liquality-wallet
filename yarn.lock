@@ -98,3 +98,5 @@
     "@babel/core": ^7.0.0-0
   dependenciesMeta:
     "@nicolo-ribaudo/chokidar-2":
+      optional: true
+    chokidar:
