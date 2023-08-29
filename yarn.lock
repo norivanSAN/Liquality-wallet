@@ -100,3 +100,5 @@
     "@nicolo-ribaudo/chokidar-2":
       optional: true
     chokidar:
+      optional: true
+  bin:
