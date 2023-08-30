@@ -102,3 +102,4 @@
     chokidar:
       optional: true
   bin:
+    babel: ./bin/babel.js
