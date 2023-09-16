@@ -135,3 +135,4 @@
   version: 7.20.12
   resolution: "@babel/core@npm:7.20.12"
   dependencies:
+    "@ampproject/remapping": ^2.1.0
