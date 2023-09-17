@@ -136,3 +136,4 @@
   resolution: "@babel/core@npm:7.20.12"
   dependencies:
     "@ampproject/remapping": ^2.1.0
+    "@babel/code-frame": ^7.18.6
