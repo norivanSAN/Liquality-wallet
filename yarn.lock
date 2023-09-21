@@ -141,3 +141,5 @@
     "@babel/helper-compilation-targets": ^7.20.7
     "@babel/helper-module-transforms": ^7.20.11
     "@babel/helpers": ^7.20.7
+    "@babel/parser": ^7.20.7
+    "@babel/template": ^7.20.7
