@@ -145,3 +145,5 @@
     "@babel/template": ^7.20.7
     "@babel/traverse": ^7.20.12
     "@babel/types": ^7.20.7
+    convert-source-map: ^1.7.0
+    debug: ^4.1.0
