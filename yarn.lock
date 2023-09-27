@@ -155,3 +155,5 @@
   linkType: hard
 
 "@babel/eslint-parser@npm:^7.11.0":
+  version: 7.22.10
+  resolution: "@babel/eslint-parser@npm:7.22.10"
