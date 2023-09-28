@@ -157,3 +157,5 @@
 "@babel/eslint-parser@npm:^7.11.0":
   version: 7.22.10
   resolution: "@babel/eslint-parser@npm:7.22.10"
+  dependencies:
+    "@nicolo-ribaudo/eslint-scope-5-internals": 5.1.1-v1
