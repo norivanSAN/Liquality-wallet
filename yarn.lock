@@ -161,3 +161,5 @@
     "@nicolo-ribaudo/eslint-scope-5-internals": 5.1.1-v1
     eslint-visitor-keys: ^2.1.0
     semver: ^6.3.1
+  peerDependencies:
+    "@babel/core": ^7.11.0
