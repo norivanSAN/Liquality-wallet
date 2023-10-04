@@ -172,3 +172,5 @@
   version: 7.20.14
   resolution: "@babel/generator@npm:7.20.14"
   dependencies:
+    "@babel/types": ^7.20.7
+    "@jridgewell/gen-mapping": ^0.3.2
