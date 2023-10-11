@@ -189,3 +189,6 @@
     semver: ^6.3.0
   checksum: f28118447355af2a90bd340e2e60699f94c8020517eba9b71bf8ebff62fa9e00d63f076e033f9dfb97548053ad62ada45fafb0d96584b1a90e8aef5a3b8241b1
   languageName: node
+  linkType: hard
+
+"@babel/eslint-parser@npm:^7.11.0":
