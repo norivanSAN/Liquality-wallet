@@ -206,3 +206,5 @@
   linkType: hard
 
 "@babel/generator@npm:^7.20.7, @babel/generator@npm:^7.4.0, @babel/generator@npm:^7.7.2":
+  version: 7.20.14
+  resolution: "@babel/generator@npm:7.20.14"
