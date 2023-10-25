@@ -217,3 +217,5 @@
   linkType: hard
 
 "@babel/generator@npm:^7.21.5":
+  version: 7.21.5
+  resolution: "@babel/generator@npm:7.21.5"
