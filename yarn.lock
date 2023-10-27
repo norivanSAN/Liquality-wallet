@@ -221,3 +221,5 @@
   resolution: "@babel/generator@npm:7.21.5"
   dependencies:
     "@babel/types": ^7.21.5
+    "@jridgewell/gen-mapping": ^0.3.2
+    "@jridgewell/trace-mapping": ^0.3.17
