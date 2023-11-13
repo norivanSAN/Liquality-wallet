@@ -258,3 +258,5 @@
     semver: ^6.3.0
   peerDependencies:
     "@babel/core": ^7.0.0
+  checksum: 8c32c873ba86e2e1805b30e0807abd07188acbe00ebb97576f0b09061cc65007f1312b589eccb4349c5a8c7f8bb9f2ab199d41da7030bf103d9f347dcd3a3cf4
+  languageName: node
