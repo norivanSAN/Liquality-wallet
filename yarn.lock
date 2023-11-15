@@ -264,3 +264,5 @@
 
 "@babel/helper-compilation-targets@npm:^7.21.5":
   version: 7.21.5
+  resolution: "@babel/helper-compilation-targets@npm:7.21.5"
+  dependencies:
