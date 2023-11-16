@@ -266,3 +266,5 @@
   version: 7.21.5
   resolution: "@babel/helper-compilation-targets@npm:7.21.5"
   dependencies:
+    "@babel/compat-data": ^7.21.5
+    "@babel/helper-validator-option": ^7.21.0
