@@ -268,3 +268,5 @@
   dependencies:
     "@babel/compat-data": ^7.21.5
     "@babel/helper-validator-option": ^7.21.0
+    browserslist: ^4.21.3
+    lru-cache: ^5.1.1
