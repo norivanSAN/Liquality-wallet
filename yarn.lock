@@ -293,3 +293,4 @@
     "@babel/core": ^7.0.0
   checksum: 1e9ed4243b75278fa24deb40dc62bf537b79307987223a2d2d2ae5abf7ba6dc8435d6e3bb55d52ceb30d3e1eba88e7eb6a1885a8bb519e5cfc3e9dedb97d43e6
   languageName: node
+  linkType: hard
